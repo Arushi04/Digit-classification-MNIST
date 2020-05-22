@@ -1,2 +1,2 @@
 # Digit-classification-MNIST
-We will be doing multiclass classification using Pytorch 
+We will be doing multiclass classification using Logistic Regression in Pytorch 
